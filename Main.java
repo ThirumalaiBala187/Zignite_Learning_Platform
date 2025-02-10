@@ -1,5 +1,5 @@
 class Main{
 public static void main(String args[]){
-System.out.println("Happy Birthday Muthu bhaiya.... !");
+System.out.println("Happy Birthday .... !");
 }
 }
