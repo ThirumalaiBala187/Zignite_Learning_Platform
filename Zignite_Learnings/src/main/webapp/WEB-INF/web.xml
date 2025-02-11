@@ -4,13 +4,13 @@
 	<servlet>
 		<description>
 		</description>
-		<display-name>LognServlet</display-name>
-		<servlet-name>LognServlet</servlet-name>
+		<display-name>LoginServlet</display-name>
+		<servlet-name>LoginServlet</servlet-name>
 		<servlet-class>Servlets.LognServlet</servlet-class>
 	</servlet>
 	<servlet-mapping>
-		<servlet-name>LognServlet</servlet-name>
-		<url-pattern>/LognServlet</url-pattern>
+		<servlet-name>LoginServlet</servlet-name>
+		<url-pattern>/LoginServlet</url-pattern>
 	</servlet-mapping>
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
